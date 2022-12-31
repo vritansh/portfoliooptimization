@@ -3,4 +3,4 @@ This project aims at analysing multiple ML algorithms for portfolio optimization
 
 <h2> Architeture </h2> 
 
-![alt text](https://github.com/vritansh/portfoliooptimization/blob/main/ArchitectureStockPortfolioManagement.drawio.png?raw=true)
+![alt text](https://github.com/vritansh/Chatbot-Application/blob/master/whatsapp-bot-architecture.png?raw=true)
